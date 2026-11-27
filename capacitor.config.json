@@ -1,0 +1,22 @@
+{
+  "appId": "com.thrive.personal",
+  "appName": "Thrive",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "App": {
+      "disableBackButtonHandler": false
+    },
+    "BluetoothLe": {
+      "displayStrings": {
+        "scanning": "Looking for nearby watches\u2026",
+        "cancel": "Cancel",
+        "availableDevices": "Available Bluetooth devices",
+        "noDeviceFound": "No compatible device found"
+      }
+    }
+  }
+}

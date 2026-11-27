@@ -1,0 +1,30 @@
+{
+  "name": "Thrive Personal Growth Planner",
+  "short_name": "Thrive",
+  "description": "Plan goals, track progress, study the Bible, learn coding, journal, track finances and wellbeing.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7fb",
+  "theme_color": "#3569e8",
+  "id": "./",
+  "categories": [
+    "productivity",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
